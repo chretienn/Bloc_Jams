@@ -5,4 +5,6 @@ focused on greatly on this project and was challenged to discover why DOM Script
 developers turning to jQuery. After the project was completed, it was sent live to Netlify which is functioning live at this
 very moment.
 
+**You can see the live project here:** [Netlify](https://christiandomingo-bloc-jams.netlify.com/)
+
 ![GitHub Logo](/Jams.png)
